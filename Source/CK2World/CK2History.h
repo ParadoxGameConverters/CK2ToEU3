@@ -27,8 +27,8 @@
 
 #include <map>
 #include <memory>
-#include "Common\Date.h"
-#include "Parsers\IObject.h"
+#include "../Common\Date.h"
+#include "../Parsers\IObject.h"
 using namespace std;
 
 

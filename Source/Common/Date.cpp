@@ -47,7 +47,7 @@
 #include <cstdlib>
 #include <sstream>
 #include <vector>
-#include "Parsers\Object.h"
+#include "../Parsers\Object.h"
 using namespace std;
 
 namespace common

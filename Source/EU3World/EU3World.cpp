@@ -42,7 +42,7 @@
 #include "..\CK2World\CK2World.h"
 #include "..\CK2World\CK2Religion.h"
 #include "..\ModWorld\ModCultureRule.h"
-#include "CK2World\Character\CK2Character.h"
+#include "../CK2World\Character\CK2Character.h"
 #include "EU3Province.h"
 #include "Country\EU3Country.h"
 #include "EU3Ruler.h"

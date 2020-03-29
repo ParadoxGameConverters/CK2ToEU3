@@ -23,7 +23,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*/
 #define IREPOSITORY_H_
 
 #include <string>
-#include "Parsers/IObject.h"
+#include "../../Parsers/IObject.h"
 
 namespace ck2
 {

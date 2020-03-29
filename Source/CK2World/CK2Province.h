@@ -26,7 +26,7 @@
 
 
 #include "..\Mappers.h"
-#include "Parsers\IObject.h"
+#include "../Parsers\IObject.h"
 #include <vector>
 #include <map>
 #include <memory>

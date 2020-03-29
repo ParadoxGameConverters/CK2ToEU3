@@ -25,7 +25,7 @@
 #define EU3DIPLOMACY_H_
 
 
-#include "Common\Date.h"
+#include "../Common\Date.h"
 #include <memory>
 #include <vector>
 using namespace std;

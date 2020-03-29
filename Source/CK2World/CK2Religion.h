@@ -26,7 +26,7 @@
 
 #include <string>
 #include <map>
-#include "Parsers/IObject.h"
+#include "../Parsers/IObject.h"
 using namespace std;
 
 class Object;

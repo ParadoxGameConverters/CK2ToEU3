@@ -27,8 +27,8 @@
 #include <map>
 #include <memory>
 #include <string>
-#include "Parsers/IObject.h"
-#include "CK2World/Opinion/IRepository.h"
+#include "../../Parsers/IObject.h"
+#include "IRepository.h"
 using namespace std;
 
 class Object;

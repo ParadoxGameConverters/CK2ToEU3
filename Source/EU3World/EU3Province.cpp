@@ -30,7 +30,7 @@
 #include "..\CK2World\CK2Barony.h"
 #include "..\CK2World\CK2Title.h"
 #include "..\CK2World\Ck2Province.h"
-#include "CK2World\Character\CK2Character.h"
+#include "../CK2World\Character\CK2Character.h"
 #include "..\CK2World\CK2Religion.h"
 #include <algorithm>
 

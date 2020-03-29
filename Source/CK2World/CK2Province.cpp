@@ -26,7 +26,7 @@
 #include "CK2Building.h"
 #include "CK2Barony.h"
 #include "CK2Title.h"
-#include "CK2World\Character\CK2Character.h"
+#include "Character\CK2Character.h"
 #include "CK2Religion.h"
 #include "CK2Version.h"
 #include "..\Log.h"

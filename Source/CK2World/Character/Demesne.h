@@ -24,8 +24,8 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*/
 
 #include <string>
 #include <vector>
-#include "Parsers\IObject.h"
-#include "CK2World\CK2Army.h"
+#include "../../Parsers\IObject.h"
+#include "../../CK2World\CK2Army.h"
 
 namespace ck2
 {

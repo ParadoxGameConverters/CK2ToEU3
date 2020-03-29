@@ -30,7 +30,7 @@
 #include <tuple>
 #include <set>
 #include "..\Mappers.h"
-#include "Common\Date.h"
+#include "../Common\Date.h"
 #include "..\ModWorld\ModCultureRule.h"
 
 

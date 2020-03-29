@@ -20,8 +20,8 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*/
 
 #include "VassalizingCoreGettingVassalConverter.h"
-#include "Common/Constants.h"
-#include "EU3World/EU3Province.h"
+#include "../../Common/Constants.h"
+#include "../EU3Province.h"
 
 namespace eu3
 {

@@ -30,11 +30,11 @@
 #include <map>
 #include <memory>
 #include <vector>
-#include "Common\Date.h"
-#include "Mappers.h"
-#include "Parsers\IObject.h"
-#include "CK2World\Opinion\CK2Opinion.h"
-#include "CK2World\Character\Demesne.h"
+#include "../../Common\Date.h"
+#include "../../Mappers.h"
+#include "../../Parsers\IObject.h"
+#include "..\Opinion\CK2Opinion.h"
+#include "..\Character\Demesne.h"
 
 using namespace std;
 
