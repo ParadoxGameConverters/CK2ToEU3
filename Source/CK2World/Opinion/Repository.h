@@ -25,8 +25,8 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*/
 #include <map>
 #include <memory>
 #include <string>
-#include "Parsers/IObject.h"
-#include "CK2World/Opinion/IRepository.h"
+#include "../../Parsers/IObject.h"
+#include "IRepository.h"
 
 namespace ck2
 {

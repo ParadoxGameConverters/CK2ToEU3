@@ -22,7 +22,7 @@
 
 
 #include "EU3History.h"
-#include "CK2World\Character\CK2Character.h"
+#include "../CK2World\Character\CK2Character.h"
 #include "..\CK2World\CK2History.h"
 #include "EU3Ruler.h"
 #include "EU3Advisor.h"

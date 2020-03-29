@@ -24,7 +24,7 @@
 
 #include <string>
 #include <vector>
-#include <Parsers\IObject.h>
+#include "../Parsers\IObject.h"
 
 using namespace std;
 

@@ -28,9 +28,9 @@
 #include <vector>
 #include <map>
 #include <boost\function.hpp>
-#include "Parsers\IObject.h"
-#include "CK2World\Opinion\CK2Opinion.h"
-#include "Common\Date.h"
+#include "../Parsers\IObject.h"
+#include "Opinion\CK2Opinion.h"
+#include "../Common\Date.h"
 #include "..\LogBase.h"
 #include "..\Mappers.h"
 using namespace std;

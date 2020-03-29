@@ -24,7 +24,7 @@
 #include "CK2Title.h"
 #include "..\Parsers\Object.h"
 #include "CK2World.h"
-#include "CK2World\Character\CK2Character.h"
+#include "Character\CK2Character.h"
 #include "CK2Title.h"
 #include "CK2Dynasty.h"
 #include "CK2History.h"

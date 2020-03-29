@@ -22,7 +22,7 @@
 
 
 #include "CK2Dynasty.h"
-#include "CK2World\Character\CK2Character.h"
+#include "../CK2World\Character\CK2Character.h"
 #include "..\Parsers\Object.h"
 
 

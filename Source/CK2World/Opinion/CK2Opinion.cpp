@@ -22,8 +22,8 @@
 
 
 #include "CK2Opinion.h"
-#include "Parsers/Object.h"
-#include "Log.h"
+#include "../../Parsers/Object.h"
+#include "../../Log.h"
 
 CK2Opinion::CK2Opinion(Object* obj, std::shared_ptr<ck2::opinion::IRepository>& opinionRepository) : multiplier(1),
     value(0)

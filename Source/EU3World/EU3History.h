@@ -25,7 +25,7 @@
 #define EU3HISTORY_H_
 
 
-#include "Common\Date.h"
+#include "../Common\Date.h"
 #include "..\Mappers.h"
 #include <fstream>
 

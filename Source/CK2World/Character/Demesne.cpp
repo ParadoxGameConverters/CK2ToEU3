@@ -20,7 +20,7 @@
  SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.*/
 
 #include "boost\foreach.hpp"
-#include "CK2World\Character\Demesne.h"
+#include "..\Character\Demesne.h"
 
 namespace ck2
 {

@@ -29,9 +29,9 @@
 #include <vector>
 #include <queue>
 #include <tuple>
-#include "Common\Date.h"
-#include "Mappers.h"
-#include "CK2World\CK2Title.h"
+#include "../../Common\Date.h"
+#include "../../Mappers.h"
+#include "../../CK2World\CK2Title.h"
 using namespace std;
 
 

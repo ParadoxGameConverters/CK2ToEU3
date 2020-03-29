@@ -22,7 +22,7 @@
 
 
 #include "EU3Ruler.h"
-#include "CK2World\Character\CK2Character.h"
+#include "../CK2World\Character\CK2Character.h"
 #include "..\CK2World\CK2Dynasty.h"
 #include "..\Configuration.h"
 #include "..\Log.h"

@@ -24,7 +24,7 @@
 #ifndef CK2TITLE_H_
 #define CK2TITLE_H_
 
-#include "Parsers\IObject.h"
+#include "../Parsers\IObject.h"
 #include "..\mappers.h"
 #include <vector>
 #include <map>

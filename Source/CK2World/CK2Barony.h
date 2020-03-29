@@ -27,7 +27,7 @@
 
 
 #include "..\Mappers.h"
-#include "Parsers\IObject.h"
+#include "../Parsers\IObject.h"
 #include <string>
 using namespace std;
 

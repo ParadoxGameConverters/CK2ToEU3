@@ -22,7 +22,7 @@
 
 
 #include "CK2Building.h"
-#include "CK2World\Character\CK2Character.h"
+#include "../CK2World\Character\CK2Character.h"
 #include "CK2Religion.h"
 #include "..\Parsers\Object.h"
 #include "..\Log.h"

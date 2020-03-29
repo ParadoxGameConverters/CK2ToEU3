@@ -3,7 +3,7 @@
 
 #include <memory>
 #include "EU3Country.h"
-#include "EU3World/EU3Diplomacy.h"
+#include "../EU3Diplomacy.h"
 
 namespace eu3
 {
